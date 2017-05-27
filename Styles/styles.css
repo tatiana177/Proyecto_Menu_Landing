@@ -1,0 +1,43 @@
+body{
+
+    margin:0; 
+    background-color: #ffffff;
+     
+
+}
+
+#paraque{
+    text-align: center;
+    color:#000000;
+	background: #2E9F83;
+	font-family: 'Lobster', cursive;
+	font-size:14px;
+}
+ 
+#parrafo {
+	text-align: center;
+	color:#000000;
+	 font-family: 'Crimson Text', serif;
+	font-size:15px;
+	 padding: 7px;	
+	
+	
+}
+
+#imagen1{
+	padding: 7px 58px;
+	height: 288px;
+	display: flex;
+    justify-content: flex-start;
+    
+}
+#imagen2{
+	width: 1320px;
+	height: 180px;
+	padding: 10px 15px;
+	
+    display: flex;
+	justify-content: flex-end;
+
+	
+}

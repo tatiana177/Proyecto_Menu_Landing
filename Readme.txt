@@ -1,0 +1,1 @@
+Tener en cuenta aplicarle las propiedades'unicamente al espacio designado
